@@ -1,5 +1,0 @@
-{
-    "MONGO_URI_SERVER" : "mongodb+srv://admin-staging:J3QUMICMQE9T3vnl@dropshipping-staging.6meionj.mongodb.net/mongo-dropshipping-staging?authSource=admin&replicaSet=atlas-s8w3w5-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
-    "MONGO_URI_LOCAL": "mongodb://localhost", 
-    "LOCAL_PORT": 4999
-}
